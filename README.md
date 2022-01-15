@@ -3,12 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apoorv012&label=Profile%20views&color=0e75b6&style=flat" alt="apoorv012" /> </p>
 
-- I am currently working on my [Space-Shooter](https://github.com/Apoorv012/Space-Shooter/releases) game.
+- 🔭 I am currently working on my [Space-Shooter](https://github.com/Apoorv012/Space-Shooter/releases) Game.
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- :package: All of my projects are at [https://github.com/Apoorv012](https://github.com/Apoorv012).
 
 <!---
 Apoorv012/Apoorv012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
