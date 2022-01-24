@@ -7,9 +7,8 @@
 
 - :package: All of my projects are at [https://github.com/Apoorv012](https://github.com/Apoorv012).
 
--  📫 Reach me at **Discord: Apoorv012#5619**
+<!-- -  📫 Reach me at **Discord: Apoorv012#5619** -->
 
-- 
 
 <!---
 Apoorv012/Apoorv012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
